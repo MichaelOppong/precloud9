@@ -1,0 +1,15 @@
+p{
+    font-size:70px;
+    color: #C7AB0D;
+    font-weight:bold;
+    text-align:center;
+}
+body{
+    background-color:black;
+}
+button{
+    float:left;
+    border-radius:10px;
+    border:2px solid;
+    margin-left:45%;
+}
